@@ -5,8 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/pingu eat fish.unity
+    guid: e2a0d1bc2a03b41488122ed909ead9b9
   m_configObjects:
+    WebXR.Settings: {fileID: 11400000, guid: 3f82296b1c8516742aec005a75ad4deb, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 12a04a63c60602346bb962234039a313, type: 2}
